@@ -1,0 +1,3 @@
+curl -s -X POST http://localhost:5005/register -H "Content-Type: application/json" -d "{\"username\":\"AgentBooster\",\"password\":\"password123\"}"
+
+{"message":"Customer successfully registered. Now you can login"}
