@@ -1,5 +1,4 @@
-curl -s http://localhost:5005/
-
+curl -s http://localhost:5000/
 {
     "1": {
         "author": "Chinua Achebe",

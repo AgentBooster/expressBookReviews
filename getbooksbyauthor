@@ -1,3 +1,2 @@
-curl -s "http://localhost:5005/author/Chinua%20Achebe"
-
+curl -s http://localhost:5000/author/Chinua%20Achebe
 {"booksByAuthor":[{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}]}

@@ -1,2 +1,2 @@
-curl -s https://api.github.com/repos/AgentBooster/expressBookReviews | jq ".parent.full_name"
-null
+curl -s https://api.github.com/repos/AgentBooster/expressBookReviews | jq -r '.parent.full_name'
+"ibm-developer-skills-network/expressBookReviews"
